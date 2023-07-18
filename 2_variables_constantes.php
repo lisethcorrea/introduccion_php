@@ -39,7 +39,7 @@
         echo($a);
         echo "<br>";
         echo($b);
-        cho <"/b></h1>";>
+       // cho <"/b></h1>"
 
         //Constantes
         //La forma de definir define( string $name , mixed $value [, bool
